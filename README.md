@@ -56,7 +56,7 @@
     <a href="https://twitter.com/md14015">
         <img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="https://twitter.com/md14015" />
     </a>
-    <a href="https://mohit-portfolio.vercel.app/">
+    <a href="https://md-irshad.netlify.app/">
         <img align="center" src="https://img.shields.io/badge/Portfolio-18A303?style=for-the-badge&logo=ionic&logoColor=white" alt="https://md-irshad.netlify.app/" />
     </a>
     <a title="irshad.cse22@gmail.com" href="mailto:irshad.cse22@gmail.com">
